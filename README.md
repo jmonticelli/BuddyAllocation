@@ -1,0 +1,1 @@
+This program is a buddy allocation system written in C for my CS0449 class at Pitt in the Spring 2016 semester.
